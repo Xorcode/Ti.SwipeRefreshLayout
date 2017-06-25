@@ -6,7 +6,7 @@
  * Please see the LICENSE included with this distribution for details.
  *
  */
-package com.rkam.swiperefreshlayout;
+package com.xorcode.swiperefreshlayout;
 
 import org.appcelerator.kroll.KrollModule;
 import org.appcelerator.kroll.annotations.Kroll;
@@ -14,7 +14,7 @@ import org.appcelerator.kroll.annotations.Kroll;
 import org.appcelerator.titanium.TiApplication;
 import org.appcelerator.kroll.common.Log;
 
-@Kroll.module(name="Swiperefreshlayout", id="com.rkam.swiperefreshlayout")
+@Kroll.module(name="Swiperefreshlayout", id="com.xorcode.swiperefreshlayout")
 public class SwiperefreshlayoutModule extends KrollModule
 {
 

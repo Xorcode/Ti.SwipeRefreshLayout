@@ -24,7 +24,7 @@ The initialization of the module requires a handle to the scrollable view. If th
 		width: Ti.UI.FILL
 	})
 
-	var swipeRefreshModule = require('com.rkam.swiperefreshlayout');
+	var swipeRefreshModule = require('com.xorcode.swiperefreshlayout');
 	var swipeRefresh = swipeRefreshModule.createSwipeRefresh({
 		view: myListView,
 		height: Ti.UI.FILL,

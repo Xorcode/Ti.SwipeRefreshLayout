@@ -1,4 +1,4 @@
-package com.rkam.swiperefreshlayout;
+package com.xorcode.swiperefreshlayout;
 
 import android.content.Context;
 import android.support.v4.view.ViewCompat;

@@ -52,7 +52,7 @@ var listView = Ti.UI.createListView({
    separatorColor : '#dcdce4'
 });
 
-var swipeRefreshModule = require('com.rkam.swiperefreshlayout');
+var swipeRefreshModule = require('com.xorcode.swiperefreshlayout');
 var swipeRefresh = swipeRefreshModule.createSwipeRefresh({
     view: listView
 });

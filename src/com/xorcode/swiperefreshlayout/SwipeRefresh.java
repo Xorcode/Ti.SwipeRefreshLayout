@@ -1,4 +1,4 @@
-package com.rkam.swiperefreshlayout;
+package com.xorcode.swiperefreshlayout;
 
 import org.appcelerator.kroll.KrollDict;
 import org.appcelerator.titanium.TiApplication;

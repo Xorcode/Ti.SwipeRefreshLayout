@@ -1,4 +1,4 @@
-package com.rkam.swiperefreshlayout;
+package com.xorcode.swiperefreshlayout;
 
 import org.appcelerator.kroll.annotations.Kroll;
 import org.appcelerator.kroll.KrollProxy;
